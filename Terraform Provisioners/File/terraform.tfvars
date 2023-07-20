@@ -1,0 +1,5 @@
+rgname = "TerraformFile_Resource"
+rglocation = "westus"
+prefix = "Files"
+vnet_cidr_prefix = "10.10.0.0/16"
+subnet1_cidr_prefix = "10.10.0.0/24"

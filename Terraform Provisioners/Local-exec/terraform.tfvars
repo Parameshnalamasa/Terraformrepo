@@ -1,0 +1,5 @@
+rgname = "TerraformLocals_Resource"
+rglocation = "westus"
+prefix = "Locals"
+vnet_cidr_prefix = "10.11.0.0/16"
+subnet1_cidr_prefix = "10.11.0.0/24"
